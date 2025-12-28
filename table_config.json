@@ -1,0 +1,21 @@
+{
+  "record_path": "value",
+  "table_name": "user_data",
+  "columns": {
+    "id": "id",
+    "test": "test",
+    "mail": "mail",
+    "userType": "type",
+    "usageLocation": "location",
+    "accouasdntEnabled": "is_enabled",
+    "givenName": "first_name",
+    "surname": "last_name",
+    "signInActivity.lastSignInDateTime": "signin_activity.last_signin_datetime",
+    "signInActivity.lastSignInRequestId": "signin_activity.last_signin_request_id",
+    "signInActivity.lastNonInteractiveSignInDateTime": "signin_activity.last_non_interactive_signin_datetime",
+    "signInActivity.lastNonInteractiveSignInRequestId": "signin_activity.last_non_interactive_signin_request_id",
+    "signInActivity.lastSuccessfulSignInDateTime": "signin_activity.last_successful_signin_datetime",
+    "signInActivity.lastSuccessfulSignInRequestId": "signin_activity.last_successful_signin_request_id"
+  },
+  "nested_tables": []
+}
